@@ -16,6 +16,7 @@ export default function FirstPost() {
           height={144} // Desired size with correct aspect ratio
           width={144} // Desired size with correct aspect ratio
           alt="Your Name"
+          priority
         />
         <h2>
           <Link href="/">
