@@ -13,8 +13,8 @@ export default function FirstPost() {
         <h1>First Post</h1>
         <Image
           src="/images/profile.jpeg" // Route of the image file
-          height={144} // Desired size with correct aspect ratio
-          width={144} // Desired size with correct aspect ratio
+          height={150} // Desired size with correct aspect ratio
+          width={150} // Desired size with correct aspect ratio
           alt="Your Name"
           priority
         />
