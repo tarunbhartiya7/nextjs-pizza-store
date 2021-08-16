@@ -36,7 +36,7 @@ export default function Home({ apiData }) {
         </h1>
         <h1 className="title">
           <Link href="/posts/cards">
-            <a>Material cards</a>
+            <a>Material UI cards</a>
           </Link>
         </h1>
 
